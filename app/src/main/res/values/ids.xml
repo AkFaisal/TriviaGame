@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_delete" type="id" />
+    <item name="tvItems" type="id" />
+    <item name="settingId" type="id" />
+    <item name="shareId" type="id" />
+    <item name="logoutId" type="id" />
+    <item name="aboutusId" type="id" />
+</resources>
